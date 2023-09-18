@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DD-SSD-Deep-Detector-for-Strip-Steel-DefectsV2**
 
-- All of my Papers are available at [https://www.researchgate.net/profile/Sayel-Abualigah](https://www.researchgate.net/profile/Sayel-Abualigah)
+- All of my papers are available at [https://www.researchgate.net/profile/Sayel-Abualigah](https://www.researchgate.net/profile/Sayel-Abualigah)
 
 - 💬 Ask me about **Deep Learning, Computer Vision, and Language Models**
 
