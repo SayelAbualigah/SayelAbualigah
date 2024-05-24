@@ -8,6 +8,8 @@
 
 - All of my papers are available at [https://www.researchgate.net/profile/Sayel-Abualigah](https://www.researchgate.net/profile/Sayel-Abualigah)
 
+- Kaggle : [https://www.kaggle.com/sayelabualigah]
+
 - 💬 Ask me about **Deep Learning, Computer Vision, and Language Models**
 
 - 📫 How to reach me **sabualigah@gmail.com**
