@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayelabualigah&label=Profile%20views&color=0e75b6&style=flat" alt="sayelabualigah" /> </p>
 
-- 🔭 I’m currently learning Reinforcement Learning**
+- 🔭 I’m currently learning Reinforcement Learning
 
 - All of my papers are available at [https://www.researchgate.net/profile/Sayel-Abualigah](https://www.researchgate.net/profile/Sayel-Abualigah)
 
