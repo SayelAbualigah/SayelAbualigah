@@ -16,4 +16,3 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sayel-abualigah-486a8417b/](https://www.linkedin.com/in/sayel-abualigah-486a8417b/)
 
-
